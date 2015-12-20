@@ -1,6 +1,6 @@
 # Zones
 
-Elixir application to wrap Elixir_ALE Gpio code and control sprinkler zones.
+Elixir application to wrap [Elixir/ALE](https://github.com/fhunleth/elixir_ale) GPIO code and control sprinkler zones.
 
 ## Installation
 

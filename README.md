@@ -1,6 +1,6 @@
 # Zones
 
-**TODO: Add description**
+Elixir application to wrap Elixir_ALE Gpio code and control sprinkler zones.
 
 ## Installation
 
